@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Documents/Java Path/jdk1.8.0_20/jre/lib/ext/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Juan/Documents/Coded Programs/Java Programs/3rdPartyLib/pdfbox-2.0.2.jar" sourcepath="C:/Users/Juan/Documents/Coded Programs/Java Programs/3rdPartyLib/pdfbox-2.0.2">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Juan/Documents/Coded%20Programs/Java%20Programs/3rdPartyLib/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
